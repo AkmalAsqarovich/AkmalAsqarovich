@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AkmalAsqarovich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Salom, men @AkmalAsqarovich
 
-<!---
-AkmalAsqarovich/AkmalAsqarovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Mening qiziqishlarim: dasturlash, yangi texnologiyalarni o'rganish va innovatsion loyihalar yaratish.
+
+🌱 Hozirda men JavaScript, Chrome Extensions va veb dasturlash bo'yicha bilimlarimni kengaytiryapman.
+
+💞️ Men dasturlash va texnologiyalar bo'yicha hamkorlikka ochiqman, ayniqsa yangi loyihalar va g'oyalar ustida ishlashni istayman.
+
+📫 Menga quyidagi yo'llar orqali murojaat qilishingiz mumkin:
+
+Instagram: akmal___abduraimov
+Email: akmalvirus003@gmail.com
